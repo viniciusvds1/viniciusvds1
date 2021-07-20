@@ -16,7 +16,7 @@
 
  
 
-## About me
+## Minhas Redes
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusvds1)](https://github.com/viniciusvds1)
 
@@ -36,7 +36,7 @@
 :collision: :collision: :collision: :collision:
 
 
-
+## Meus codigos
            
 
 [![viniciusvds1 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvds1)](https://github.com/viniciusvds1?tab=repositories)
