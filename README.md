@@ -25,13 +25,9 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](viniciusvds#4677)
 
-- Obrigado pela visita.
-
-- Aproveite!! o/
 
 
 
-<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 
 
@@ -58,7 +54,9 @@
 
 
                 
-:collision: :collision: :collision:
+:collision: :collision: :collision: :collision:
 
+- Obrigado pela visita.
 
+- Aproveite!! o/
   
