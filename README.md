@@ -43,11 +43,11 @@
 
            
 
-[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvds1)](https://github.com/viniciusvds1/repos)
+[![NOMEGIT GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvds1)](https://github.com/viniciusvds1/repositories)
 
 
 
-[![viniciusvds1 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvds1)](https://github.com/viniciusvds1/repos)
+[![viniciusvds1 GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusvds1)](https://github.com/viniciusvds1/repositories)
 
 
 
