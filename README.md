@@ -6,7 +6,7 @@
 
  
 
-:computer: Eu sou desenvolvedor backend muuuito junior :P!
+:computer: Eu sou desenvolvedor backend  junior !
 
 :house_with_garden: Brasileiro.
 
