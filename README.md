@@ -6,7 +6,7 @@
 
  
 
-:computer: Eu sou desenvolvedor backend  junior !
+:computer: Eu sou desenvolvedor full-stack pleno !
 
 :house_with_garden: Brasileiro.
 
