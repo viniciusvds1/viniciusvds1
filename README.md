@@ -10,9 +10,13 @@
 
 :house_with_garden: Brasileiro.
 
-:books: Atualmente estou aprendendo tudo, participando de bootcamps como #HiringCoders da VTEX junto com a Gama Academy e Estagiando na Mova-Instituição Financeira.
+:books: Olá! Sou um desenvolvedor apaixonado com 4 anos de experiência em diversas áreas de desenvolvimento. Comecei minha jornada como desenvolvedor backend em PHP, me aprofundando também em alguns front-end com Laravel. Posteriormente, participei do bootcamp VTEX - Hiring Coders, onde minha equipe emergiu como campeã no desafio final, me levando a ingressar na VTEX como desenvolvedor full stack.
 
-:outbox_tray: Objetivos: Me tornar cada vez mais um desenvolvedor pleno e me aprimorar cada dia mais.
+Minha jornada foi repleta de desafios e aprendizados, e atualmente sou desenvolvedor full-stack com foco em Java - SpringBoot. Minhas habilidades também se estendem ao uso de mensageiros Kafka e RabbitMQ para sistemas escaláveis ​​e de alto desempenho.
+
+Além disso, tenho paixão por resolver problemas complexos e sou proficiente no uso de ferramentas como New Relic e Confluence para analisar e resolver problemas técnicos de forma eficaz.
+
+Procuro constantemente aprimorar minhas habilidades e estou comprometido com o aprendizado. Atualmente, estou tendo aulas particulares de inglês para aprimorar minha comunicação e colaboração em ambientes internacionais.
 
  
 
